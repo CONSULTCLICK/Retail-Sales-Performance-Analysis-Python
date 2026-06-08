@@ -1,7 +1,7 @@
-# Retail Sales Performance & Profitability Analytics
+# Sales Performance Analysis and Profitability Assessment for Nike Retail Sportswear Segment
 
 ## 📌 Project Overview
-This project analyzes retail sales data to evaluate revenue performance, profitability trends, customer behavior, and regional performance using Python.
+This project analyzes Nike Sportswear retail sales data to evaluate revenue performance, profitability trends, customer purchasing behavior, and regional sales performance using Python.
 
 ## 🎯 Business Objective
 - Identify top-performing and low-performing products
@@ -38,10 +38,10 @@ This project analyzes retail sales data to evaluate revenue performance, profita
 - Jupyter Notebook
 
 ## 📁 Project Files
-- Sales_Analysis.ipynb
-- raw_sales_data.csv
-- cleaned_sales_data.csv
-- sales_report.pdf
+- nike_sales_analysis.ipynb
+- nike_sales_data_cleaned.csv
+- nike_sales_data_uncleaned.csv
+- nike_sales_report.pdf
 
 ## 👤 Author
 Ajorgbor Henrietta Odion
@@ -50,6 +50,5 @@ Ajorgbor Henrietta Odion
 June 2026
 
 ## 🔗 GitHub Repository
-[Add your project link here](https://github.com/CONSULTCLICK/Retail-Sales-Performance-Analysis-Python)
-
+(https://github.com/CONSULTCLICK/Retail-Sales-Performance-Analysis-Python)
 

@@ -52,3 +52,6 @@ June 2026
 ## 🔗 GitHub Repository
 (https://github.com/CONSULTCLICK/Retail-Sales-Performance-Analysis-Python)
 
+## 🔗 View Notebook (Best)
+https://nbviewer.org/github/CONSULTCLICK/Retail-Sales-Performance-Analysis-Python/blob/main/nike_sales_analysis%20.ipynb
+
